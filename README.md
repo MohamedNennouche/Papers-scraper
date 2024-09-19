@@ -11,4 +11,7 @@ The aim of this project is to create an Open Source application that can be used
 - International Conference on Image Processing (ICIP) : [Link](https://ieeexplore-ieee-org.sndl1.arn.dz/xpl/conhome/1000349/all-proceedings)
 ## Use of this Software
 Check the License to use this Software
+## Datasets
+- [NeurIPS papers 1987 - 2023](https://www.kaggle.com/datasets/mohamednennouche/neurips-papers-1987-2023/data)
 ## Contribution
+It's open to everyone, check the todo and contribute !
