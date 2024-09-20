@@ -8,3 +8,4 @@
 - [ ] A investiguer pour les citations : https://github.com/scholarly-python-package/scholarly
 - [ ] Scraping ICML : problème avec certains abstract et liens PDF
 - [ ] Scraping ICML : lien PDF relatif à ajuster sur certains articles
+- [ ] Arxivscraper : https://github.com/mahdisadjadi/arxivscraper (exemple d'utilisation : https://github.com/zhuwenxing/daily_arxiv)
