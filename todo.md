@@ -1,6 +1,7 @@
 ## Todo
 
 - [ ] Investiguer le problème avec 16% des abstract NeurIPS
+- [ ] Trouver les articles AAAI CAI des années 1981, 1985, 1989, 1995, 2001, 2003, 2009
 - [ ] Trouver les articles ECCV de 1990 à 2000
 - [ ] Trouver les articles ECCV 2016
 - [ ] Trouver les articles ICCV 1987 jusqu'à 1999 (ghir ekhtik)
